@@ -88,14 +88,7 @@ RTC Module → Arduino → Relay Module → Water Pump
 
 
 
- Project Structure
 
-RTC-Based-Pump-Switcher/
-│
-├── README.md
-├── code/pump_switcher.ino
-├── circuit_diagram/
-└── images/
 
 
 
