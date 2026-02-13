@@ -1,0 +1,18 @@
+Circuit Connections:
+
+RTC Module → Arduino
+VCC → 5V
+GND → GND
+SDA → A4
+SCL → A5
+
+Relay Module → Arduino
+VCC → 5V
+GND → GND
+IN → Digital Pin 7
+
+Relay Output → Water Pump
+COM → Power Supply Line
+NO → Pump Input
+
+Ensure proper isolation while connecting high voltage pump.
